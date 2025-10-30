@@ -1,0 +1,4 @@
+timestamp,input,species_detected,predictions
+2025-10-29T23:18:17.672624,dog fever vomiting,dog,Parvovirus (පාර්වෝ වෛරස් රෝගය (බල්ලා))|73.0%;Kidney_Disease (වකුගඩු රෝගය (බල්ලා / පූසා))|10.1%;Distemper (ඩිස්ටෙම්පර් රෝගය (බල්ලා))|6.3%
+2025-10-29T23:18:31.901546,fever,,Feline_Panleukopenia (පූසාගේ පෑන්ලියුකෝපෙනියා)|12.9%;Bovine_Tuberculosis (ගවයාගේ ටියුබර්කියුලෝසිස් (TB))|12.6%;Parvovirus (පාර්වෝ වෛරස් රෝගය (බල්ලා))|12.5%
+2025-10-29T23:18:41.151044,cat fever,cat,Feline_Panleukopenia (පූසාගේ පෑන්ලියුකෝපෙනියා)|39.1%;Rhinotracheitis (රයිනෝට්‍රැකයිටිස් (පූසා))|34.2%;Feline_Allergy (පූසාගේ සම අසාත්මිකතාව)|3.4%
